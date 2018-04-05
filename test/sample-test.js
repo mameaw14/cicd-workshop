@@ -3,7 +3,7 @@ const Assert = require('assert')
 describe('Math', () => {
     describe('Add', () => {
         it('should return 2 when the math expression is 1 + 1', () => {
-            Assert.equal(1 + 1, 90)
+            Assert.equal(1 + 1, 2)
         })
 
         it('should return 3 when the math expression is 2 + 1', () => {
